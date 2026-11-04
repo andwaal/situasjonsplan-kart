@@ -1,0 +1,1787 @@
+[
+  {
+    "nummer": "0301",
+    "navn": "Oslo",
+    "nettside": "https://www.oslo.kommune.no/"
+  },
+  {
+    "nummer": "1101",
+    "navn": "Eigersund",
+    "nettside": "https://www.eigersund.kommune.no/"
+  },
+  {
+    "nummer": "1103",
+    "navn": "Stavanger",
+    "nettside": "https://www.stavanger.kommune.no/"
+  },
+  {
+    "nummer": "1106",
+    "navn": "Haugesund",
+    "nettside": "https://www.haugesund.no/"
+  },
+  {
+    "nummer": "1108",
+    "navn": "Sandnes",
+    "nettside": "https://www.sandnes.kommune.no/"
+  },
+  {
+    "nummer": "1111",
+    "navn": "Sokndal",
+    "nettside": "https://www.sokndal.kommune.no/"
+  },
+  {
+    "nummer": "1112",
+    "navn": "Lund",
+    "nettside": "https://www.lund.kommune.no/"
+  },
+  {
+    "nummer": "1114",
+    "navn": "Bjerkreim",
+    "nettside": "https://www.bjerkreim.kommune.no/"
+  },
+  {
+    "nummer": "1119",
+    "navn": "Hå",
+    "nettside": "https://www.ha.kommune.no/"
+  },
+  {
+    "nummer": "1120",
+    "navn": "Klepp",
+    "nettside": "https://www.klepp.kommune.no/"
+  },
+  {
+    "nummer": "1121",
+    "navn": "Time",
+    "nettside": "https://www.time.kommune.no/"
+  },
+  {
+    "nummer": "1122",
+    "navn": "Gjesdal",
+    "nettside": "https://www.gjesdal.kommune.no/"
+  },
+  {
+    "nummer": "1124",
+    "navn": "Sola",
+    "nettside": "https://www.sola.kommune.no/"
+  },
+  {
+    "nummer": "1127",
+    "navn": "Randaberg",
+    "nettside": "https://www.randaberg.kommune.no/"
+  },
+  {
+    "nummer": "1130",
+    "navn": "Strand",
+    "nettside": "https://www.strand.kommune.no/"
+  },
+  {
+    "nummer": "1133",
+    "navn": "Hjelmeland",
+    "nettside": "https://www.hjelmeland.kommune.no/"
+  },
+  {
+    "nummer": "1134",
+    "navn": "Suldal",
+    "nettside": "https://suldal.kommune.no/"
+  },
+  {
+    "nummer": "1135",
+    "navn": "Sauda",
+    "nettside": "https://www.sauda.kommune.no/"
+  },
+  {
+    "nummer": "1144",
+    "navn": "Kvitsøy",
+    "nettside": "https://www.kvitsoy.kommune.no/"
+  },
+  {
+    "nummer": "1145",
+    "navn": "Bokn",
+    "nettside": "https://WWW.BOKN.KOMMUNE.NO/"
+  },
+  {
+    "nummer": "1146",
+    "navn": "Tysvær",
+    "nettside": "https://www.tysver.kommune.no/"
+  },
+  {
+    "nummer": "1149",
+    "navn": "Karmøy",
+    "nettside": "https://www.karmoy.kommune.no/"
+  },
+  {
+    "nummer": "1151",
+    "navn": "Utsira",
+    "nettside": "https://www.utsira.kommune.no/"
+  },
+  {
+    "nummer": "1160",
+    "navn": "Vindafjord",
+    "nettside": "https://www.vindafjord.kommune.no/"
+  },
+  {
+    "nummer": "1505",
+    "navn": "Kristiansund",
+    "nettside": "https://www.kristiansund.kommune.no/"
+  },
+  {
+    "nummer": "1506",
+    "navn": "Molde",
+    "nettside": "https://www.molde.kommune.no/"
+  },
+  {
+    "nummer": "1508",
+    "navn": "Ålesund",
+    "nettside": "https://www.alesund.kommune.no/"
+  },
+  {
+    "nummer": "1511",
+    "navn": "Vanylven",
+    "nettside": "https://www.vanylven.kommune.no/"
+  },
+  {
+    "nummer": "1514",
+    "navn": "Sande",
+    "nettside": "https://www.sande.kommune.no/"
+  },
+  {
+    "nummer": "1515",
+    "navn": "Herøy",
+    "nettside": "https://www.heroy.kommune.no/"
+  },
+  {
+    "nummer": "1516",
+    "navn": "Ulstein",
+    "nettside": "https://www.ulstein.kommune.no/"
+  },
+  {
+    "nummer": "1517",
+    "navn": "Hareid",
+    "nettside": "https://www.hareid.kommune.no/"
+  },
+  {
+    "nummer": "1520",
+    "navn": "Ørsta",
+    "nettside": "https://www.orsta.kommune.no/"
+  },
+  {
+    "nummer": "1525",
+    "navn": "Stranda",
+    "nettside": "https://www.stranda.kommune.no/"
+  },
+  {
+    "nummer": "1528",
+    "navn": "Sykkylven",
+    "nettside": "https://www.sykkylven.kommune.no/"
+  },
+  {
+    "nummer": "1531",
+    "navn": "Sula",
+    "nettside": "https://www.sula.kommune.no/"
+  },
+  {
+    "nummer": "1532",
+    "navn": "Giske",
+    "nettside": "https://www.giske.kommune.no/"
+  },
+  {
+    "nummer": "1535",
+    "navn": "Vestnes",
+    "nettside": "https://www.vestnes.kommune.no/"
+  },
+  {
+    "nummer": "1539",
+    "navn": "Rauma",
+    "nettside": "https://www.rauma.kommune.no/"
+  },
+  {
+    "nummer": "1547",
+    "navn": "Aukra",
+    "nettside": "https://www.aukra.kommune.no/"
+  },
+  {
+    "nummer": "1554",
+    "navn": "Averøy",
+    "nettside": "https://www.averoy.kommune.no/"
+  },
+  {
+    "nummer": "1557",
+    "navn": "Gjemnes",
+    "nettside": "https://www.gjemnes.kommune.no/"
+  },
+  {
+    "nummer": "1560",
+    "navn": "Tingvoll",
+    "nettside": "https://www.tingvoll.kommune.no/"
+  },
+  {
+    "nummer": "1563",
+    "navn": "Sunndal",
+    "nettside": "https://www.sunndal.kommune.no/"
+  },
+  {
+    "nummer": "1566",
+    "navn": "Surnadal",
+    "nettside": "https://www.surnadal.kommune.no/"
+  },
+  {
+    "nummer": "1573",
+    "navn": "Smøla",
+    "nettside": "https://www.smola.kommune.no/"
+  },
+  {
+    "nummer": "1576",
+    "navn": "Aure",
+    "nettside": "https://www.aure.kommune.no/"
+  },
+  {
+    "nummer": "1577",
+    "navn": "Volda",
+    "nettside": "https://www.volda.kommune.no/"
+  },
+  {
+    "nummer": "1578",
+    "navn": "Fjord",
+    "nettside": "https://www.fjord.kommune.no/"
+  },
+  {
+    "nummer": "1579",
+    "navn": "Hustadvika",
+    "nettside": "https://www.hustadvika.kommune.no/"
+  },
+  {
+    "nummer": "1580",
+    "navn": "Haram",
+    "nettside": "https://haram.kommune.no/"
+  },
+  {
+    "nummer": "1804",
+    "navn": "Bodø",
+    "nettside": "https://www.bodo.kommune.no/"
+  },
+  {
+    "nummer": "1806",
+    "navn": "Narvik",
+    "nettside": "https://www.narvik.kommune.no/"
+  },
+  {
+    "nummer": "1811",
+    "navn": "Bindal",
+    "nettside": "https://www.bindal.kommune.no/"
+  },
+  {
+    "nummer": "1812",
+    "navn": "Sømna",
+    "nettside": "https://www.somna.kommune.no/"
+  },
+  {
+    "nummer": "1813",
+    "navn": "Brønnøy",
+    "nettside": "https://www.bronnoy.kommune.no/"
+  },
+  {
+    "nummer": "1815",
+    "navn": "Vega",
+    "nettside": "https://www.vega.kommune.no/"
+  },
+  {
+    "nummer": "1816",
+    "navn": "Vevelstad",
+    "nettside": "https://www.vevelstad.kommune.no/"
+  },
+  {
+    "nummer": "1818",
+    "navn": "Herøy",
+    "nettside": "https://www.heroy-no.kommune.no/"
+  },
+  {
+    "nummer": "1820",
+    "navn": "Alstahaug",
+    "nettside": "https://www.alstahaug.kommune.no/"
+  },
+  {
+    "nummer": "1822",
+    "navn": "Leirfjord",
+    "nettside": "https://www.leirfjord.kommune.no/"
+  },
+  {
+    "nummer": "1824",
+    "navn": "Vefsn",
+    "nettside": "https://www.vefsn.kommune.no/"
+  },
+  {
+    "nummer": "1825",
+    "navn": "Grane",
+    "nettside": "https://www.grane.kommune.no/"
+  },
+  {
+    "nummer": "1826",
+    "navn": "Aarborte",
+    "nettside": "https://www.hattfjelldal.kommune.no/"
+  },
+  {
+    "nummer": "1827",
+    "navn": "Dønna",
+    "nettside": "https://www.donna.kommune.no/"
+  },
+  {
+    "nummer": "1828",
+    "navn": "Nesna",
+    "nettside": "https://www.nesna.kommune.no/"
+  },
+  {
+    "nummer": "1832",
+    "navn": "Hemnes",
+    "nettside": "https://www.hemnes.kommune.no/"
+  },
+  {
+    "nummer": "1833",
+    "navn": "Rana",
+    "nettside": "https://www.rana.kommune.no/"
+  },
+  {
+    "nummer": "1834",
+    "navn": "Lurøy",
+    "nettside": "https://www.luroy.kommune.no/"
+  },
+  {
+    "nummer": "1835",
+    "navn": "Træna",
+    "nettside": "https://www.trana.kommune.no/"
+  },
+  {
+    "nummer": "1836",
+    "navn": "Rødøy",
+    "nettside": "https://www.rodoy.kommune.no/"
+  },
+  {
+    "nummer": "1837",
+    "navn": "Meløy",
+    "nettside": "https://www.meloy.kommune.no/"
+  },
+  {
+    "nummer": "1838",
+    "navn": "Gildeskål",
+    "nettside": "https://www.gildeskal.kommune.no/"
+  },
+  {
+    "nummer": "1839",
+    "navn": "Beiarn",
+    "nettside": "https://www.beiarn.kommune.no/"
+  },
+  {
+    "nummer": "1840",
+    "navn": "Saltdal",
+    "nettside": "https://www.saltdal.kommune.no/"
+  },
+  {
+    "nummer": "1841",
+    "navn": "Fauske",
+    "nettside": "https://www.fauske.kommune.no/"
+  },
+  {
+    "nummer": "1845",
+    "navn": "Sørfold",
+    "nettside": "https://www.sorfold.kommune.no/"
+  },
+  {
+    "nummer": "1848",
+    "navn": "Steigen",
+    "nettside": "https://www.steigen.kommune.no/"
+  },
+  {
+    "nummer": "1851",
+    "navn": "Lødingen",
+    "nettside": "https://www.lodingen.kommune.no/"
+  },
+  {
+    "nummer": "1853",
+    "navn": "Evenes",
+    "nettside": "https://www.evenes.kommune.no/"
+  },
+  {
+    "nummer": "1856",
+    "navn": "Røst",
+    "nettside": "https://www.rost.kommune.no/"
+  },
+  {
+    "nummer": "1857",
+    "navn": "Værøy",
+    "nettside": "https://www.varoy.kommune.no/"
+  },
+  {
+    "nummer": "1859",
+    "navn": "Flakstad",
+    "nettside": "https://www.flakstad.kommune.no/"
+  },
+  {
+    "nummer": "1860",
+    "navn": "Vestvågøy",
+    "nettside": "https://www.vestvagoy.kommune.no/"
+  },
+  {
+    "nummer": "1865",
+    "navn": "Vågan",
+    "nettside": "https://www.vagan.kommune.no/"
+  },
+  {
+    "nummer": "1866",
+    "navn": "Hadsel",
+    "nettside": "https://www.hadsel.kommune.no/"
+  },
+  {
+    "nummer": "1867",
+    "navn": "Bø",
+    "nettside": "https://www.boe.kommune.no/"
+  },
+  {
+    "nummer": "1868",
+    "navn": "Øksnes",
+    "nettside": "https://www.oksnes.kommune.no/"
+  },
+  {
+    "nummer": "1870",
+    "navn": "Sortland",
+    "nettside": "https://www.sortland.kommune.no/"
+  },
+  {
+    "nummer": "1871",
+    "navn": "Andøy",
+    "nettside": "https://www.andoy.kommune.no/"
+  },
+  {
+    "nummer": "1874",
+    "navn": "Moskenes",
+    "nettside": "https://www.moskenes.kommune.no/"
+  },
+  {
+    "nummer": "1875",
+    "navn": "Hábmer",
+    "nettside": "https://www.hamaroy.kommune.no/"
+  },
+  {
+    "nummer": "3101",
+    "navn": "Halden",
+    "nettside": "https://www.halden.kommune.no/"
+  },
+  {
+    "nummer": "3103",
+    "navn": "Moss",
+    "nettside": "https://www.moss.kommune.no/"
+  },
+  {
+    "nummer": "3105",
+    "navn": "Sarpsborg",
+    "nettside": "https://www.sarpsborg.com/"
+  },
+  {
+    "nummer": "3107",
+    "navn": "Fredrikstad",
+    "nettside": "https://www.fredrikstad.kommune.no/"
+  },
+  {
+    "nummer": "3110",
+    "navn": "Hvaler",
+    "nettside": "https://www.hvaler.kommune.no/"
+  },
+  {
+    "nummer": "3112",
+    "navn": "Råde",
+    "nettside": "https://www.rade.kommune.no/"
+  },
+  {
+    "nummer": "3114",
+    "navn": "Våler",
+    "nettside": "https://www.valer.kommune.no/"
+  },
+  {
+    "nummer": "3116",
+    "navn": "Skiptvet",
+    "nettside": "https://www.skiptvet.kommune.no/"
+  },
+  {
+    "nummer": "3118",
+    "navn": "Indre Østfold",
+    "nettside": "https://www.io.kommune.no/"
+  },
+  {
+    "nummer": "3120",
+    "navn": "Rakkestad",
+    "nettside": "https://www.rakkestad.kommune.no/"
+  },
+  {
+    "nummer": "3122",
+    "navn": "Marker",
+    "nettside": "https://www.marker.kommune.no/"
+  },
+  {
+    "nummer": "3124",
+    "navn": "Aremark",
+    "nettside": "https://www.aremark.kommune.no/"
+  },
+  {
+    "nummer": "3201",
+    "navn": "Bærum",
+    "nettside": "https://www.baerum.kommune.no/"
+  },
+  {
+    "nummer": "3203",
+    "navn": "Asker",
+    "nettside": "https://www.asker.kommune.no/"
+  },
+  {
+    "nummer": "3205",
+    "navn": "Lillestrøm",
+    "nettside": "https://www.lillestrom.kommune.no/"
+  },
+  {
+    "nummer": "3207",
+    "navn": "Nordre Follo",
+    "nettside": "https://www.nordrefollo.kommune.no/"
+  },
+  {
+    "nummer": "3209",
+    "navn": "Ullensaker",
+    "nettside": "https://www.ullensaker.kommune.no/"
+  },
+  {
+    "nummer": "3212",
+    "navn": "Nesodden",
+    "nettside": "https://www.nesodden.kommune.no/"
+  },
+  {
+    "nummer": "3214",
+    "navn": "Frogn",
+    "nettside": "https://www.frogn.kommune.no/"
+  },
+  {
+    "nummer": "3216",
+    "navn": "Vestby",
+    "nettside": "https://www.vestby.kommune.no/"
+  },
+  {
+    "nummer": "3218",
+    "navn": "Ås",
+    "nettside": "https://www.as.kommune.no/"
+  },
+  {
+    "nummer": "3220",
+    "navn": "Enebakk",
+    "nettside": "https://www.enebakk.kommune.no/"
+  },
+  {
+    "nummer": "3222",
+    "navn": "Lørenskog",
+    "nettside": "https://www.lorenskog.kommune.no/"
+  },
+  {
+    "nummer": "3224",
+    "navn": "Rælingen",
+    "nettside": "https://www.ralingen.kommune.no/"
+  },
+  {
+    "nummer": "3226",
+    "navn": "Aurskog-Høland",
+    "nettside": "https://www.ahk.no/"
+  },
+  {
+    "nummer": "3228",
+    "navn": "Nes",
+    "nettside": "https://www.nes.kommune.no/"
+  },
+  {
+    "nummer": "3230",
+    "navn": "Gjerdrum",
+    "nettside": "https://www.gjerdrum.kommune.no/"
+  },
+  {
+    "nummer": "3232",
+    "navn": "Nittedal",
+    "nettside": "https://www.nittedal.kommune.no/"
+  },
+  {
+    "nummer": "3234",
+    "navn": "Lunner",
+    "nettside": "https://www.lunner.kommune.no/"
+  },
+  {
+    "nummer": "3236",
+    "navn": "Jevnaker",
+    "nettside": "https://www.jevnaker.kommune.no/"
+  },
+  {
+    "nummer": "3238",
+    "navn": "Nannestad",
+    "nettside": "https://www.nannestad.kommune.no/"
+  },
+  {
+    "nummer": "3240",
+    "navn": "Eidsvoll",
+    "nettside": "https://www.eidsvoll.kommune.no/"
+  },
+  {
+    "nummer": "3242",
+    "navn": "Hurdal",
+    "nettside": "https://www.hurdal.kommune.no/"
+  },
+  {
+    "nummer": "3301",
+    "navn": "Drammen",
+    "nettside": "https://www.drammen.kommune.no/"
+  },
+  {
+    "nummer": "3303",
+    "navn": "Kongsberg",
+    "nettside": "https://www.kongsberg.kommune.no/"
+  },
+  {
+    "nummer": "3305",
+    "navn": "Ringerike",
+    "nettside": "https://www.ringerike.kommune.no/"
+  },
+  {
+    "nummer": "3310",
+    "navn": "Hole",
+    "nettside": "https://www.hole.kommune.no/"
+  },
+  {
+    "nummer": "3312",
+    "navn": "Lier",
+    "nettside": "https://www.lier.kommune.no/"
+  },
+  {
+    "nummer": "3314",
+    "navn": "Øvre Eiker",
+    "nettside": "https://www.ovre-eiker.kommune.no/"
+  },
+  {
+    "nummer": "3316",
+    "navn": "Modum",
+    "nettside": "https://www.modum.kommune.no/"
+  },
+  {
+    "nummer": "3318",
+    "navn": "Krødsherad",
+    "nettside": "https://www.krodsherad.kommune.no/"
+  },
+  {
+    "nummer": "3320",
+    "navn": "Flå",
+    "nettside": "https://www.flaa.kommune.no/"
+  },
+  {
+    "nummer": "3322",
+    "navn": "Nesbyen",
+    "nettside": "https://www.nesbyen.kommune.no/"
+  },
+  {
+    "nummer": "3324",
+    "navn": "Gol",
+    "nettside": "https://www.gol.kommune.no/"
+  },
+  {
+    "nummer": "3326",
+    "navn": "Hemsedal",
+    "nettside": "https://www.hemsedal.kommune.no/"
+  },
+  {
+    "nummer": "3328",
+    "navn": "Ål",
+    "nettside": "https://www.aal.kommune.no/"
+  },
+  {
+    "nummer": "3330",
+    "navn": "Hol",
+    "nettside": "https://www.hol.kommune.no/"
+  },
+  {
+    "nummer": "3332",
+    "navn": "Sigdal",
+    "nettside": "https://www.sigdal.kommune.no/"
+  },
+  {
+    "nummer": "3334",
+    "navn": "Flesberg",
+    "nettside": "https://www.flesberg.kommune.no/"
+  },
+  {
+    "nummer": "3336",
+    "navn": "Rollag",
+    "nettside": "https://www.rollag.kommune.no/"
+  },
+  {
+    "nummer": "3338",
+    "navn": "Nore og Uvdal",
+    "nettside": "https://www.nore-og-uvdal.kommune.no/"
+  },
+  {
+    "nummer": "3401",
+    "navn": "Kongsvinger",
+    "nettside": "https://www.kongsvinger.kommune.no/"
+  },
+  {
+    "nummer": "3403",
+    "navn": "Hamar",
+    "nettside": "https://www.hamar.kommune.no/"
+  },
+  {
+    "nummer": "3405",
+    "navn": "Lillehammer",
+    "nettside": "https://www.lillehammer.kommune.no/"
+  },
+  {
+    "nummer": "3407",
+    "navn": "Gjøvik",
+    "nettside": "https://www.gjovik.kommune.no/"
+  },
+  {
+    "nummer": "3411",
+    "navn": "Ringsaker",
+    "nettside": "https://www.ringsaker.kommune.no/"
+  },
+  {
+    "nummer": "3412",
+    "navn": "Løten",
+    "nettside": "https://www.loten.kommune.no/"
+  },
+  {
+    "nummer": "3413",
+    "navn": "Stange",
+    "nettside": "https://www.stange.kommune.no/"
+  },
+  {
+    "nummer": "3414",
+    "navn": "Nord-Odal",
+    "nettside": "https://www.nord-odal.kommune.no/"
+  },
+  {
+    "nummer": "3415",
+    "navn": "Sør-Odal",
+    "nettside": "https://www.sor-odal.kommune.no/"
+  },
+  {
+    "nummer": "3416",
+    "navn": "Eidskog",
+    "nettside": "https://www.eidskog.kommune.no/"
+  },
+  {
+    "nummer": "3417",
+    "navn": "Grue",
+    "nettside": "https://www.grue.kommune.no/"
+  },
+  {
+    "nummer": "3418",
+    "navn": "Åsnes",
+    "nettside": "https://www.asnes.kommune.no/"
+  },
+  {
+    "nummer": "3419",
+    "navn": "Våler",
+    "nettside": "https://www.vaaler-he.kommune.no/"
+  },
+  {
+    "nummer": "3420",
+    "navn": "Elverum",
+    "nettside": "https://www.elverum.kommune.no/"
+  },
+  {
+    "nummer": "3421",
+    "navn": "Trysil",
+    "nettside": "https://www.trysil.kommune.no/"
+  },
+  {
+    "nummer": "3422",
+    "navn": "Åmot",
+    "nettside": "https://www.amot.kommune.no/"
+  },
+  {
+    "nummer": "3423",
+    "navn": "Stor-Elvdal",
+    "nettside": "https://www.stor-elvdal.kommune.no/"
+  },
+  {
+    "nummer": "3424",
+    "navn": "Rendalen",
+    "nettside": "https://www.rendalen.kommune.no/"
+  },
+  {
+    "nummer": "3425",
+    "navn": "Engerdal",
+    "nettside": "https://www.engerdal.kommune.no/"
+  },
+  {
+    "nummer": "3426",
+    "navn": "Tolga",
+    "nettside": "https://www.tolga.kommune.no/"
+  },
+  {
+    "nummer": "3427",
+    "navn": "Tynset",
+    "nettside": "https://www.tynset.kommune.no/"
+  },
+  {
+    "nummer": "3428",
+    "navn": "Alvdal",
+    "nettside": "https://www.alvdal.kommune.no/"
+  },
+  {
+    "nummer": "3429",
+    "navn": "Folldal",
+    "nettside": "https://www.folldal.kommune.no/"
+  },
+  {
+    "nummer": "3430",
+    "navn": "Os",
+    "nettside": "https://os.kommune.no/"
+  },
+  {
+    "nummer": "3431",
+    "navn": "Dovre",
+    "nettside": "https://www.dovre.kommune.no/"
+  },
+  {
+    "nummer": "3432",
+    "navn": "Lesja",
+    "nettside": "https://www.lesja.kommune.no/"
+  },
+  {
+    "nummer": "3433",
+    "navn": "Skjåk",
+    "nettside": "https://www.skjaak.kommune.no/"
+  },
+  {
+    "nummer": "3434",
+    "navn": "Lom",
+    "nettside": "https://lom.kommune.no/"
+  },
+  {
+    "nummer": "3435",
+    "navn": "Vågå",
+    "nettside": "https://www.vaga.kommune.no/"
+  },
+  {
+    "nummer": "3436",
+    "navn": "Nord-Fron",
+    "nettside": "https://www.nord-fron.kommune.no/"
+  },
+  {
+    "nummer": "3437",
+    "navn": "Sel",
+    "nettside": "https://www.sel.kommune.no/"
+  },
+  {
+    "nummer": "3438",
+    "navn": "Sør-Fron",
+    "nettside": "https://www.sor-fron.kommune.no/"
+  },
+  {
+    "nummer": "3439",
+    "navn": "Ringebu",
+    "nettside": "https://www.ringebu.kommune.no/"
+  },
+  {
+    "nummer": "3440",
+    "navn": "Øyer",
+    "nettside": "https://www.oyer.kommune.no/"
+  },
+  {
+    "nummer": "3441",
+    "navn": "Gausdal",
+    "nettside": "https://www.gausdal.kommune.no/"
+  },
+  {
+    "nummer": "3442",
+    "navn": "Østre Toten",
+    "nettside": "https://www.ostre-toten.kommune.no/"
+  },
+  {
+    "nummer": "3443",
+    "navn": "Vestre Toten",
+    "nettside": "https://www.vestre-toten.kommune.no/"
+  },
+  {
+    "nummer": "3446",
+    "navn": "Gran",
+    "nettside": "https://www.gran.kommune.no/"
+  },
+  {
+    "nummer": "3447",
+    "navn": "Søndre Land",
+    "nettside": "https://www.sondre-land.kommune.no/"
+  },
+  {
+    "nummer": "3448",
+    "navn": "Nordre Land",
+    "nettside": "https://www.nordre-land.kommune.no/"
+  },
+  {
+    "nummer": "3449",
+    "navn": "Sør-Aurdal",
+    "nettside": "https://www.sor-aurdal.kommune.no/"
+  },
+  {
+    "nummer": "3450",
+    "navn": "Etnedal",
+    "nettside": "https://www.etnedal.kommune.no/"
+  },
+  {
+    "nummer": "3451",
+    "navn": "Nord-Aurdal",
+    "nettside": "https://www.nord-aurdal.kommune.no/"
+  },
+  {
+    "nummer": "3452",
+    "navn": "Vestre Slidre",
+    "nettside": "https://www.vestre-slidre.kommune.no/"
+  },
+  {
+    "nummer": "3453",
+    "navn": "Øystre Slidre",
+    "nettside": "https://www.oystre-slidre.kommune.no/"
+  },
+  {
+    "nummer": "3454",
+    "navn": "Vang",
+    "nettside": "https://www.vang.kommune.no/"
+  },
+  {
+    "nummer": "3901",
+    "navn": "Horten",
+    "nettside": "https://www.horten.kommune.no/"
+  },
+  {
+    "nummer": "3903",
+    "navn": "Holmestrand",
+    "nettside": "https://www.holmestrand.kommune.no/"
+  },
+  {
+    "nummer": "3905",
+    "navn": "Tønsberg",
+    "nettside": "https://tonsberg.kommune.no/"
+  },
+  {
+    "nummer": "3907",
+    "navn": "Sandefjord",
+    "nettside": "https://www.sandefjord.kommune.no/"
+  },
+  {
+    "nummer": "3909",
+    "navn": "Larvik",
+    "nettside": "https://www.larvik.kommune.no/"
+  },
+  {
+    "nummer": "3911",
+    "navn": "Færder",
+    "nettside": "https://www.faerder.kommune.no/"
+  },
+  {
+    "nummer": "4001",
+    "navn": "Porsgrunn",
+    "nettside": "https://www.porsgrunn.kommune.no/"
+  },
+  {
+    "nummer": "4003",
+    "navn": "Skien",
+    "nettside": "https://www.skien.kommune.no/"
+  },
+  {
+    "nummer": "4005",
+    "navn": "Notodden",
+    "nettside": "https://www.notodden.kommune.no/"
+  },
+  {
+    "nummer": "4010",
+    "navn": "Siljan",
+    "nettside": "https://www.siljan.kommune.no/"
+  },
+  {
+    "nummer": "4012",
+    "navn": "Bamble",
+    "nettside": "https://www.bamble.kommune.no/"
+  },
+  {
+    "nummer": "4014",
+    "navn": "Kragerø",
+    "nettside": "https://www.kragero.kommune.no/"
+  },
+  {
+    "nummer": "4016",
+    "navn": "Drangedal",
+    "nettside": "https://www.drangedal.kommune.no/"
+  },
+  {
+    "nummer": "4018",
+    "navn": "Nome",
+    "nettside": "https://www.nome.kommune.no/"
+  },
+  {
+    "nummer": "4020",
+    "navn": "Midt-Telemark",
+    "nettside": "https://www.midt-telemark.kommune.no/"
+  },
+  {
+    "nummer": "4022",
+    "navn": "Seljord",
+    "nettside": "https://www.seljord.kommune.no/"
+  },
+  {
+    "nummer": "4024",
+    "navn": "Hjartdal",
+    "nettside": "https://www.hjartdal.kommune.no/"
+  },
+  {
+    "nummer": "4026",
+    "navn": "Tinn",
+    "nettside": "https://www.tinn.kommune.no/"
+  },
+  {
+    "nummer": "4028",
+    "navn": "Kviteseid",
+    "nettside": "https://www.kviteseid.kommune.no/"
+  },
+  {
+    "nummer": "4030",
+    "navn": "Nissedal",
+    "nettside": "https://www.nissedal.kommune.no/"
+  },
+  {
+    "nummer": "4032",
+    "navn": "Fyresdal",
+    "nettside": "https://www.fyresdal.kommune.no/"
+  },
+  {
+    "nummer": "4034",
+    "navn": "Tokke",
+    "nettside": "https://www.tokke.kommune.no/"
+  },
+  {
+    "nummer": "4036",
+    "navn": "Vinje",
+    "nettside": "https://www.vinje.kommune.no/"
+  },
+  {
+    "nummer": "4201",
+    "navn": "Risør",
+    "nettside": "https://www.risor.kommune.no/"
+  },
+  {
+    "nummer": "4202",
+    "navn": "Grimstad",
+    "nettside": "https://www.grimstad.kommune.no/"
+  },
+  {
+    "nummer": "4203",
+    "navn": "Arendal",
+    "nettside": "https://www.arendal.kommune.no/"
+  },
+  {
+    "nummer": "4204",
+    "navn": "Kristiansand",
+    "nettside": "https://kristiansand.kommune.no/"
+  },
+  {
+    "nummer": "4205",
+    "navn": "Lindesnes",
+    "nettside": "https://www.lindesnes.kommune.no/"
+  },
+  {
+    "nummer": "4206",
+    "navn": "Farsund",
+    "nettside": "https://www.farsund.kommune.no/"
+  },
+  {
+    "nummer": "4207",
+    "navn": "Flekkefjord",
+    "nettside": "https://www.flekkefjord.kommune.no/"
+  },
+  {
+    "nummer": "4211",
+    "navn": "Gjerstad",
+    "nettside": "https://www.gjerstad.kommune.no/"
+  },
+  {
+    "nummer": "4212",
+    "navn": "Vegårshei",
+    "nettside": "https://www.vegarshei.kommune.no/"
+  },
+  {
+    "nummer": "4213",
+    "navn": "Tvedestrand",
+    "nettside": "https://www.tvedestrand.kommune.no/"
+  },
+  {
+    "nummer": "4214",
+    "navn": "Froland",
+    "nettside": "https://www.froland.kommune.no/"
+  },
+  {
+    "nummer": "4215",
+    "navn": "Lillesand",
+    "nettside": "https://www.lillesand.kommune.no/"
+  },
+  {
+    "nummer": "4216",
+    "navn": "Birkenes",
+    "nettside": "https://www.birkenes.kommune.no/"
+  },
+  {
+    "nummer": "4217",
+    "navn": "Åmli",
+    "nettside": "https://www.amli.kommune.no/"
+  },
+  {
+    "nummer": "4218",
+    "navn": "Iveland",
+    "nettside": "https://www.iveland.kommune.no/"
+  },
+  {
+    "nummer": "4219",
+    "navn": "Evje og Hornnes",
+    "nettside": "https://www.e-h.kommune.no/"
+  },
+  {
+    "nummer": "4220",
+    "navn": "Bygland",
+    "nettside": "https://www.bygland.kommune.no/"
+  },
+  {
+    "nummer": "4221",
+    "navn": "Valle",
+    "nettside": "https://www.valle.kommune.no/"
+  },
+  {
+    "nummer": "4222",
+    "navn": "Bykle",
+    "nettside": "https://www.bykle.kommune.no/"
+  },
+  {
+    "nummer": "4223",
+    "navn": "Vennesla",
+    "nettside": "https://www.vennesla.kommune.no/"
+  },
+  {
+    "nummer": "4224",
+    "navn": "Åseral",
+    "nettside": "https://www.aseral.kommune.no/"
+  },
+  {
+    "nummer": "4225",
+    "navn": "Lyngdal",
+    "nettside": "https://www.lyngdal.kommune.no/"
+  },
+  {
+    "nummer": "4226",
+    "navn": "Hægebostad",
+    "nettside": "https://www.haegebostad.kommune.no/"
+  },
+  {
+    "nummer": "4227",
+    "navn": "Kvinesdal",
+    "nettside": "https://www.kvinesdal.kommune.no/"
+  },
+  {
+    "nummer": "4228",
+    "navn": "Sirdal",
+    "nettside": "https://www.sirdal.kommune.no/"
+  },
+  {
+    "nummer": "4601",
+    "navn": "Bergen",
+    "nettside": "https://www.bergen.kommune.no/"
+  },
+  {
+    "nummer": "4602",
+    "navn": "Kinn",
+    "nettside": "https://kinn.kommune.no/"
+  },
+  {
+    "nummer": "4611",
+    "navn": "Etne",
+    "nettside": "https://www.etne.kommune.no/"
+  },
+  {
+    "nummer": "4612",
+    "navn": "Sveio",
+    "nettside": "https://www.sveio.kommune.no/"
+  },
+  {
+    "nummer": "4613",
+    "navn": "Bømlo",
+    "nettside": "https://www.bomlo.kommune.no/"
+  },
+  {
+    "nummer": "4614",
+    "navn": "Stord",
+    "nettside": "https://www.stord.kommune.no/"
+  },
+  {
+    "nummer": "4615",
+    "navn": "Fitjar",
+    "nettside": "https://www.fitjar.kommune.no/"
+  },
+  {
+    "nummer": "4616",
+    "navn": "Tysnes",
+    "nettside": "https://www.tysnes.kommune.no/"
+  },
+  {
+    "nummer": "4617",
+    "navn": "Kvinnherad",
+    "nettside": "https://www.kvinnherad.kommune.no/"
+  },
+  {
+    "nummer": "4618",
+    "navn": "Ullensvang",
+    "nettside": "https://www.ullensvang.kommune.no/"
+  },
+  {
+    "nummer": "4619",
+    "navn": "Eidfjord",
+    "nettside": "https://www.eidfjord.kommune.no/"
+  },
+  {
+    "nummer": "4620",
+    "navn": "Ulvik",
+    "nettside": "https://www.ulvik.kommune.no/"
+  },
+  {
+    "nummer": "4621",
+    "navn": "Voss",
+    "nettside": "https://www.voss.kommune.no/"
+  },
+  {
+    "nummer": "4622",
+    "navn": "Kvam",
+    "nettside": "https://www.kvam.no/"
+  },
+  {
+    "nummer": "4623",
+    "navn": "Samnanger",
+    "nettside": "https://www.samnanger.kommune.no/"
+  },
+  {
+    "nummer": "4624",
+    "navn": "Bjørnafjorden",
+    "nettside": "https://www.bjornafjorden.kommune.no/"
+  },
+  {
+    "nummer": "4625",
+    "navn": "Austevoll",
+    "nettside": "https://www.austevoll.kommune.no/"
+  },
+  {
+    "nummer": "4626",
+    "navn": "Øygarden",
+    "nettside": "https://www.oygarden.kommune.no/"
+  },
+  {
+    "nummer": "4627",
+    "navn": "Askøy",
+    "nettside": "https://www.askoy.kommune.no/"
+  },
+  {
+    "nummer": "4628",
+    "navn": "Vaksdal",
+    "nettside": "https://www.vaksdal.kommune.no/"
+  },
+  {
+    "nummer": "4629",
+    "navn": "Modalen",
+    "nettside": "https://www.modalen.kommune.no/"
+  },
+  {
+    "nummer": "4630",
+    "navn": "Osterøy",
+    "nettside": "https://www.osteroy.kommune.no/"
+  },
+  {
+    "nummer": "4631",
+    "navn": "Alver",
+    "nettside": "https://www.alver.kommune.no/"
+  },
+  {
+    "nummer": "4632",
+    "navn": "Austrheim",
+    "nettside": "https://www.austrheim.kommune.no/"
+  },
+  {
+    "nummer": "4633",
+    "navn": "Fedje",
+    "nettside": "https://www.fedje.kommune.no/"
+  },
+  {
+    "nummer": "4634",
+    "navn": "Masfjorden",
+    "nettside": "https://www.masfjorden.kommune.no/"
+  },
+  {
+    "nummer": "4635",
+    "navn": "Gulen",
+    "nettside": "https://www.gulen.kommune.no/"
+  },
+  {
+    "nummer": "4636",
+    "navn": "Solund",
+    "nettside": "https://www.solund.kommune.no/"
+  },
+  {
+    "nummer": "4637",
+    "navn": "Hyllestad",
+    "nettside": "https://www.hyllestad.kommune.no/"
+  },
+  {
+    "nummer": "4638",
+    "navn": "Høyanger",
+    "nettside": "https://www.hoyanger.kommune.no/"
+  },
+  {
+    "nummer": "4639",
+    "navn": "Vik",
+    "nettside": "https://www.vik.kommune.no/"
+  },
+  {
+    "nummer": "4640",
+    "navn": "Sogndal",
+    "nettside": "https://www.sogndal.kommune.no/"
+  },
+  {
+    "nummer": "4641",
+    "navn": "Aurland",
+    "nettside": "https://www.aurland.kommune.no/"
+  },
+  {
+    "nummer": "4642",
+    "navn": "Lærdal",
+    "nettside": "https://www.laerdal.kommune.no/"
+  },
+  {
+    "nummer": "4643",
+    "navn": "Årdal",
+    "nettside": "https://www.ardal.kommune.no/"
+  },
+  {
+    "nummer": "4644",
+    "navn": "Luster",
+    "nettside": "https://www.luster.kommune.no/"
+  },
+  {
+    "nummer": "4645",
+    "navn": "Askvoll",
+    "nettside": "https://www.askvoll.kommune.no/"
+  },
+  {
+    "nummer": "4646",
+    "navn": "Fjaler",
+    "nettside": "https://www.fjaler.kommune.no/"
+  },
+  {
+    "nummer": "4647",
+    "navn": "Sunnfjord",
+    "nettside": "https://www.sunnfjord.kommune.no/"
+  },
+  {
+    "nummer": "4648",
+    "navn": "Bremanger",
+    "nettside": "https://www.bremanger.kommune.no/"
+  },
+  {
+    "nummer": "4649",
+    "navn": "Stad",
+    "nettside": "https://www.stad.kommune.no/"
+  },
+  {
+    "nummer": "4650",
+    "navn": "Gloppen",
+    "nettside": "https://www.gloppen.kommune.no/"
+  },
+  {
+    "nummer": "4651",
+    "navn": "Stryn",
+    "nettside": "https://www.stryn.kommune.no/"
+  },
+  {
+    "nummer": "5001",
+    "navn": "Trondheim",
+    "nettside": "https://www.trondheim.kommune.no/"
+  },
+  {
+    "nummer": "5006",
+    "navn": "Steinkjer",
+    "nettside": "https://www.steinkjer.kommune.no/"
+  },
+  {
+    "nummer": "5007",
+    "navn": "Namsos",
+    "nettside": "https://www.namsos.kommune.no/"
+  },
+  {
+    "nummer": "5014",
+    "navn": "Frøya",
+    "nettside": "https://www.froya.kommune.no/"
+  },
+  {
+    "nummer": "5020",
+    "navn": "Osen",
+    "nettside": "https://www.osen.kommune.no/"
+  },
+  {
+    "nummer": "5021",
+    "navn": "Oppdal",
+    "nettside": "https://www.oppdal.kommune.no/"
+  },
+  {
+    "nummer": "5022",
+    "navn": "Rennebu",
+    "nettside": "https://www.rennebu.kommune.no/"
+  },
+  {
+    "nummer": "5025",
+    "navn": "Rosse",
+    "nettside": "https://www.roros.kommune.no/"
+  },
+  {
+    "nummer": "5026",
+    "navn": "Holtålen",
+    "nettside": "https://www.holtalen.kommune.no/"
+  },
+  {
+    "nummer": "5027",
+    "navn": "Midtre Gauldal",
+    "nettside": "https://www.mgk.no/"
+  },
+  {
+    "nummer": "5028",
+    "navn": "Melhus",
+    "nettside": "https://www.melhus.kommune.no/"
+  },
+  {
+    "nummer": "5029",
+    "navn": "Skaun",
+    "nettside": "https://www.skaun.kommune.no/"
+  },
+  {
+    "nummer": "5031",
+    "navn": "Malvik",
+    "nettside": "https://www.malvik.kommune.no/"
+  },
+  {
+    "nummer": "5032",
+    "navn": "Selbu",
+    "nettside": "https://www.selbu.kommune.no/"
+  },
+  {
+    "nummer": "5033",
+    "navn": "Tydal",
+    "nettside": "https://www.tydal.kommune.no/"
+  },
+  {
+    "nummer": "5034",
+    "navn": "Meråker",
+    "nettside": "https://www.meraker.kommune.no/"
+  },
+  {
+    "nummer": "5035",
+    "navn": "Stjørdal",
+    "nettside": "https://www.stjordal.kommune.no/"
+  },
+  {
+    "nummer": "5036",
+    "navn": "Frosta",
+    "nettside": "https://www.frosta.kommune.no/"
+  },
+  {
+    "nummer": "5037",
+    "navn": "Levanger",
+    "nettside": "https://www.levanger.kommune.no/"
+  },
+  {
+    "nummer": "5038",
+    "navn": "Verdal",
+    "nettside": "https://www.verdal.kommune.no/"
+  },
+  {
+    "nummer": "5041",
+    "navn": "Snåase",
+    "nettside": "https://www.snasa.kommune.no/"
+  },
+  {
+    "nummer": "5042",
+    "navn": "Lierne",
+    "nettside": "https://www.lierne.kommune.no/"
+  },
+  {
+    "nummer": "5043",
+    "navn": "Raarvihke",
+    "nettside": "https://www.royrvik.kommune.no/"
+  },
+  {
+    "nummer": "5044",
+    "navn": "Namsskogan",
+    "nettside": "https://www.namsskogan.kommune.no/"
+  },
+  {
+    "nummer": "5045",
+    "navn": "Grong",
+    "nettside": "https://www.grong.kommune.no/"
+  },
+  {
+    "nummer": "5046",
+    "navn": "Høylandet",
+    "nettside": "https://www.hoylandet.kommune.no/"
+  },
+  {
+    "nummer": "5047",
+    "navn": "Overhalla",
+    "nettside": "https://www.overhalla.kommune.no/"
+  },
+  {
+    "nummer": "5049",
+    "navn": "Flatanger",
+    "nettside": "https://www.flatanger.kommune.no/"
+  },
+  {
+    "nummer": "5052",
+    "navn": "Leka",
+    "nettside": "https://www.leka.kommune.no/"
+  },
+  {
+    "nummer": "5053",
+    "navn": "Inderøy",
+    "nettside": "https://www.inderoy.kommune.no/"
+  },
+  {
+    "nummer": "5054",
+    "navn": "Indre Fosen",
+    "nettside": "https://www.indrefosen.kommune.no/"
+  },
+  {
+    "nummer": "5055",
+    "navn": "Heim",
+    "nettside": "https://heim.kommune.no/"
+  },
+  {
+    "nummer": "5056",
+    "navn": "Hitra",
+    "nettside": "https://www.hitra.kommune.no/"
+  },
+  {
+    "nummer": "5057",
+    "navn": "Ørland",
+    "nettside": "https://www.orland.kommune.no/"
+  },
+  {
+    "nummer": "5058",
+    "navn": "Åfjord",
+    "nettside": "https://www.afjord.kommune.no/"
+  },
+  {
+    "nummer": "5059",
+    "navn": "Orkland",
+    "nettside": "https://orkland.kommune.no/"
+  },
+  {
+    "nummer": "5060",
+    "navn": "Nærøysund",
+    "nettside": "https://www.naroysund.kommune.no/"
+  },
+  {
+    "nummer": "5061",
+    "navn": "Rindal",
+    "nettside": "https://www.rindal.kommune.no/"
+  },
+  {
+    "nummer": "5501",
+    "navn": "Tromsø",
+    "nettside": "https://www.tromso.kommune.no/"
+  },
+  {
+    "nummer": "5503",
+    "navn": "Harstad",
+    "nettside": "https://www.harstad.kommune.no/"
+  },
+  {
+    "nummer": "5510",
+    "navn": "Kvæfjord",
+    "nettside": "https://www.kvafjord.kommune.no/"
+  },
+  {
+    "nummer": "5512",
+    "navn": "Dielddanuorri",
+    "nettside": "https://www.tjeldsund.kommune.no/"
+  },
+  {
+    "nummer": "5514",
+    "navn": "Ibestad",
+    "nettside": "https://www.ibestad.kommune.no/"
+  },
+  {
+    "nummer": "5516",
+    "navn": "Gratangen",
+    "nettside": "https://www.gratangen.kommune.no/"
+  },
+  {
+    "nummer": "5518",
+    "navn": "Loabák",
+    "nettside": "https://www.lavangen.kommune.no/"
+  },
+  {
+    "nummer": "5520",
+    "navn": "Bardu",
+    "nettside": "https://www.bardu.kommune.no/"
+  },
+  {
+    "nummer": "5522",
+    "navn": "Salangen",
+    "nettside": "https://www.salangen.kommune.no/"
+  },
+  {
+    "nummer": "5524",
+    "navn": "Målselv",
+    "nettside": "https://www.malselv.kommune.no/"
+  },
+  {
+    "nummer": "5526",
+    "navn": "Sørreisa",
+    "nettside": "https://www.sorreisa.kommune.no/"
+  },
+  {
+    "nummer": "5528",
+    "navn": "Dyrøy",
+    "nettside": "https://www.dyroy.kommune.no/"
+  },
+  {
+    "nummer": "5530",
+    "navn": "Senja",
+    "nettside": "https://www.senja.kommune.no/"
+  },
+  {
+    "nummer": "5532",
+    "navn": "Balsfjord",
+    "nettside": "https://www.balsfjord.kommune.no/"
+  },
+  {
+    "nummer": "5534",
+    "navn": "Karlsøy",
+    "nettside": "https://www.karlsoy.kommune.no/"
+  },
+  {
+    "nummer": "5536",
+    "navn": "Lyngen",
+    "nettside": "https://www.lyngen.kommune.no/"
+  },
+  {
+    "nummer": "5538",
+    "navn": "Storfjord",
+    "nettside": "https://www.storfjord.kommune.no/"
+  },
+  {
+    "nummer": "5540",
+    "navn": "Gáivuotna",
+    "nettside": "https://www.kafjord.kommune.no/"
+  },
+  {
+    "nummer": "5542",
+    "navn": "Skjervøy",
+    "nettside": "https://www.skjervoy.kommune.no/"
+  },
+  {
+    "nummer": "5544",
+    "navn": "Nordreisa",
+    "nettside": "https://www.nordreisa.kommune.no/"
+  },
+  {
+    "nummer": "5546",
+    "navn": "Kvænangen",
+    "nettside": "https://www.kvanangen.kommune.no/"
+  },
+  {
+    "nummer": "5601",
+    "navn": "Alta",
+    "nettside": "https://www.alta.kommune.no/"
+  },
+  {
+    "nummer": "5603",
+    "navn": "Hammerfest",
+    "nettside": "https://www.hammerfest.kommune.no/"
+  },
+  {
+    "nummer": "5605",
+    "navn": "Sør-Varanger",
+    "nettside": "https://www.sor-varanger.kommune.no/"
+  },
+  {
+    "nummer": "5607",
+    "navn": "Vadsø",
+    "nettside": "https://www.vadso.kommune.no/"
+  },
+  {
+    "nummer": "5610",
+    "navn": "Kárášjohka",
+    "nettside": "https://www.karasjok.kommune.no/"
+  },
+  {
+    "nummer": "5612",
+    "navn": "Guovdageaidnu",
+    "nettside": "https://www.kautokeino.kommune.no/"
+  },
+  {
+    "nummer": "5614",
+    "navn": "Loppa",
+    "nettside": "https://www.loppa.kommune.no/"
+  },
+  {
+    "nummer": "5616",
+    "navn": "Hasvik",
+    "nettside": "https://www.hasvik.kommune.no/"
+  },
+  {
+    "nummer": "5618",
+    "navn": "Måsøy",
+    "nettside": "https://www.masoy.kommune.no/"
+  },
+  {
+    "nummer": "5620",
+    "navn": "Nordkapp",
+    "nettside": "https://www.nordkapp.kommune.no/"
+  },
+  {
+    "nummer": "5622",
+    "navn": "Porsanger",
+    "nettside": "https://www.porsanger.kommune.no/"
+  },
+  {
+    "nummer": "5624",
+    "navn": "Lebesby",
+    "nettside": "https://www.lebesby.kommune.no/"
+  },
+  {
+    "nummer": "5626",
+    "navn": "Gamvik",
+    "nettside": "https://www.gamvik.kommune.no/"
+  },
+  {
+    "nummer": "5628",
+    "navn": "Deatnu",
+    "nettside": "https://www.tana.kommune.no/"
+  },
+  {
+    "nummer": "5630",
+    "navn": "Berlevåg",
+    "nettside": "https://www.berlevag.kommune.no/"
+  },
+  {
+    "nummer": "5632",
+    "navn": "Båtsfjord",
+    "nettside": "https://www.batsfjord.kommune.no/"
+  },
+  {
+    "nummer": "5634",
+    "navn": "Vardø",
+    "nettside": "https://www.vardo.kommune.no/"
+  },
+  {
+    "nummer": "5636",
+    "navn": "Unjárga",
+    "nettside": "https://www.nesseby.kommune.no/"
+  }
+]

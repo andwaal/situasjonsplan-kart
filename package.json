@@ -1,0 +1,28 @@
+{
+  "name": "situasjonskart-plan",
+  "private": true,
+  "version": "1.0.0",
+  "license": "AGPL-3.0-only",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc --noEmit && vite build",
+    "preview": "vite preview --base /situasjonsplan-kart/",
+    "predev": "node scripts/sync-kommune-public.mjs",
+    "prebuild": "node scripts/sync-kommune-public.mjs"
+  },
+  "dependencies": {
+    "ol": "^10.11.0",
+    "pdf-lib": "^1.17.1",
+    "proj4": "^2.22.0",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1"
+  },
+  "devDependencies": {
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
+    "@vitejs/plugin-react": "^6.1.2",
+    "typescript": "^7.0.2",
+    "vite": "^8.3.5"
+  }
+}

@@ -1,0 +1,12 @@
+.DS_Store
+.DS_Store?
+._*
+
+# Node
+node_modules/
+dist/
+tmp-downloads/
+*.log
+
+# Generated build artifact
+public/kommune.json
