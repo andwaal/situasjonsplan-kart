@@ -9,7 +9,7 @@
     "build": "tsc --noEmit && vite build",
     "preview": "vite preview --base /situasjonsplan-kart/",
     "predev": "node scripts/sync-kommune-public.mjs",
-    "prebuild": "node scripts/sync-kommune-public.mjs"
+    "prebuild": "node scripts/sync-kommune-public.mjs && node scripts/build-sitemap.mjs"
   },
   "dependencies": {
     "ol": "^10.11.0",
